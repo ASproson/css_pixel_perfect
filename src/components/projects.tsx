@@ -38,10 +38,9 @@ export const projects: Projects = [
         responsive mobile view for a premium umbrella manufacturer.
       </p>
     ),
-    link: "/fox",
-    github:
-      "https://github.com/ASproson/pixel_perfect/tree/main/src/components/FoxUmbrellas",
-    deployment: "/fox",
+    link: "https://asproson.github.io/css_fox/",
+    github: "https://github.com/ASproson/css_fox",
+    deployment: "https://asproson.github.io/css_fox/",
   },
   {
     id: 1,
